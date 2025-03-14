@@ -19,5 +19,6 @@
   "homepage": "https://github.com/NozaHeaven/alx-intermediate-frontend#readme",
   "devDependencies": {
     "tailwindcss": "^4.0.14"
-  }
+  },
+  "type": "commonjs"
 }
