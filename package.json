@@ -17,6 +17,7 @@
   "main": "index.js",
   "scripts": {
     "build": "tailwindcss -i ./src/input.css -o ./src/output.css --watch"
+    ,"dev" : "bnpx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch"    
   },
   "dependencies": {
     "@tailwindcss/cli": "^4.0.14",
